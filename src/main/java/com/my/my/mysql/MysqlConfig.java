@@ -1,0 +1,15 @@
+package com.my.my.mysql;
+
+public class MysqlConfig {
+
+    public static String host = "127.0.0.1";
+
+    public static String port = "3306";
+
+    public static String username = "root";
+
+    public static String password = "123456";
+
+    public static String db = "mydb";
+
+}
