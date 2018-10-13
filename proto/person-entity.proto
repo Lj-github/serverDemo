@@ -1,0 +1,12 @@
+syntax = "proto2";
+option java_outer_classname = "PersonEntity";//生成数据的类名
+//demo
+message CommonBean {
+    required int32 id = 1; //编号
+    required string name = 2; //姓名
+    optional string address = 3; //地址
+    repeated string messages = 4; //消息的list
+}
+
+
+//protoc --proto_path=. --java_out=/Users/admin/Documents/ljworkspace/local/java/serverDemo/src/main/java/com/my/my/socket/protobuf/ person-entity.proto

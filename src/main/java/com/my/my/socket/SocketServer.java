@@ -49,6 +49,18 @@ public class SocketServer {
     */
     @OnMessage
     public void onMessage(String message, Session session) {
+
+
+
+//        PersonEntity.CommonBean.Builder builder = PersonEntity.CommonBean.newBuilder();
+//        builder.setId(1).setName("lfz"); //id和name是required的，所以必填
+//        PersonEntity.CommonBean bean1 = builder.build();
+//        byte[] bytes = bean1.toByteArray(); //序列化
+//        PersonEntity.CommonBean bean2 = PersonEntity.CommonBean.parseFrom(bytes); //反序列
+//
+
+
+
         System.out.println("来自客户端的消息:" + message);
         //群发消息
         for(SocketServer item: webSocketSet){
