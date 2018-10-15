@@ -1,5 +1,7 @@
 package com.my.my.socket;
 
+import com.google.protobuf.InvalidProtocolBufferException;
+
 import java.io.IOException;
 import java.nio.ByteBuffer;
 import java.util.concurrent.CopyOnWriteArraySet;
@@ -54,6 +56,13 @@ public class SocketServer {
         // 现在值处理一条  后面添加监听等的补充
         byte[] bytes2 = message;
         ByteBuffer buffer = ByteBuffer.wrap(bytes2);
+
+        try {
+            socket.protobuf.Awesome.AwesomeMessage gd = socket.protobuf.Awesome.AwesomeMessage.parseFrom(bytes2);
+            System.out.println("来自客户端的消息:" + gd);  //正确解码 通过
+        } catch (InvalidProtocolBufferException e) {
+            e.printStackTrace();
+        }
 
         //Awesome.AwesomeMessage
 

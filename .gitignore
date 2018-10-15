@@ -4,9 +4,8 @@
 /.idea/sanguo-py.iml
 .idea/workspace.xml
 .idea/misc.xml
-
 .idea/
 httpserver/.idea/
 serverDemo/.idea/
 springDemo/.idea/
-target/*
+target/
