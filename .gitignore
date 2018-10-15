@@ -9,3 +9,4 @@
 httpserver/.idea/
 serverDemo/.idea/
 springDemo/.idea/
+target/*

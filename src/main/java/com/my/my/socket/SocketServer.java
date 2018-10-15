@@ -1,6 +1,7 @@
 package com.my.my.socket;
 
 import java.io.IOException;
+import java.nio.ByteBuffer;
 import java.util.concurrent.CopyOnWriteArraySet;
 import javax.websocket.*;
 import javax.websocket.server.ServerEndpoint;
@@ -48,8 +49,20 @@ public class SocketServer {
     * @param session 可选的参数
     */
     @OnMessage
-    public void onMessage(String message, Session session) {
+    public void onMessage(byte[] message, Session session) {
 
+        // 现在值处理一条  后面添加监听等的补充
+        byte[] bytes2 = message;
+        ByteBuffer buffer = ByteBuffer.wrap(bytes2);
+
+        //Awesome.AwesomeMessage
+
+        //com.my.my.socket.protobuf.Awesome.AwesomeMessage.Builder msg = Awesome.AwesomeMessage.newBuilder();
+        socket.protobuf.Awesome.AwesomeMessage.Builder msg = socket.protobuf.Awesome.AwesomeMessage.newBuilder();
+        msg.setAwesomeField("testoooo");
+        socket.protobuf.Awesome.AwesomeMessage dsa = msg.build();
+
+        byte[] bytes = dsa.toByteArray();
 
 
 //        PersonEntity.CommonBean.Builder builder = PersonEntity.CommonBean.newBuilder();
@@ -57,15 +70,13 @@ public class SocketServer {
 //        PersonEntity.CommonBean bean1 = builder.build();
 //        byte[] bytes = bean1.toByteArray(); //序列化
 //        PersonEntity.CommonBean bean2 = PersonEntity.CommonBean.parseFrom(bytes); //反序列
-//
-
 
 
         System.out.println("来自客户端的消息:" + message);
         //群发消息
         for(SocketServer item: webSocketSet){
             try {
-                item.sendMessage(message);
+                item.sendMessage(bytes);
             } catch (IOException e) {
                  e.printStackTrace();
                  continue;
@@ -89,8 +100,14 @@ public class SocketServer {
     * @param message
     * @throws IOException    发送消息
     */
-    public void sendMessage(String message) throws IOException{
-        this.session.getBasicRemote().sendText(message);
+    public void sendMessage(byte[] message) throws IOException{
+        byte[] bytes = message;
+        ByteBuffer buffer = ByteBuffer.wrap(bytes);
+        try {
+            this.session.getBasicRemote().sendBinary(buffer);
+        }catch (IOException e){
+            e.printStackTrace();
+        }
         //this.session.getAsyncRemote().sendText(message);
     }
 
