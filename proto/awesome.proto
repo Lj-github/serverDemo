@@ -1,5 +1,11 @@
 // awesome.proto 所有的proto  放这就行  java 里面 的 分开  egret  里面的  合起来
 syntax = "proto3";
+package test;
+enum MSG_HEADER {
+    AwesomeMessage = 0x00000001;
+    AwesomeMessage22 = 0x00000002;
+}
+
 
 
 message AwesomeMessage {

@@ -1,13 +1,12 @@
 package com.my.my.socket;
-
+import com.google.protobuf.ByteString;
 import com.google.protobuf.InvalidProtocolBufferException;
-
+import com.my.my.socket.protobuf.Awesome;
 import java.io.IOException;
 import java.nio.ByteBuffer;
 import java.util.concurrent.CopyOnWriteArraySet;
 import javax.websocket.*;
 import javax.websocket.server.ServerEndpoint;
-
 /**
 * @ServerEndpoint 注解是一个类层次的注解，它的功能主要是将目前的类定义成一个websocket服务器端,
  * 注解的值将被用于监听用户连接的终端访问URL地址,客户端可以通过这个URL来连接到WebSocket服务器端
@@ -55,11 +54,12 @@ public class SocketServer {
 
         // 现在值处理一条  后面添加监听等的补充
         byte[] bytes2 = message;
-        ByteBuffer buffer = ByteBuffer.wrap(bytes2);
 
         try {
-            socket.protobuf.Awesome.AwesomeMessage gd = socket.protobuf.Awesome.AwesomeMessage.parseFrom(bytes2);
+           Awesome.AwesomeMessage gd = Awesome.AwesomeMessage.parseFrom(bytes2);
             System.out.println("来自客户端的消息:" + gd);  //正确解码 通过
+
+
         } catch (InvalidProtocolBufferException e) {
             e.printStackTrace();
         }
@@ -67,12 +67,11 @@ public class SocketServer {
         //Awesome.AwesomeMessage
 
         //com.my.my.socket.protobuf.Awesome.AwesomeMessage.Builder msg = Awesome.AwesomeMessage.newBuilder();
-        socket.protobuf.Awesome.AwesomeMessage.Builder msg = socket.protobuf.Awesome.AwesomeMessage.newBuilder();
-        msg.setAwesomeField("testoooo");
-        socket.protobuf.Awesome.AwesomeMessage dsa = msg.build();
-
+        Awesome.AwesomeMessage22.Builder msg = Awesome.AwesomeMessage22.newBuilder();
+        msg.setId(1);
+        msg.setTest("ddd");
+        Awesome.AwesomeMessage22 dsa = msg.build();
         byte[] bytes = dsa.toByteArray();
-
 
 //        PersonEntity.CommonBean.Builder builder = PersonEntity.CommonBean.newBuilder();
 //        builder.setId(1).setName("lfz"); //id和name是required的，所以必填
@@ -110,13 +109,14 @@ public class SocketServer {
     * @throws IOException    发送消息
     */
     public void sendMessage(byte[] message) throws IOException{
-        byte[] bytes = message;
-        ByteBuffer buffer = ByteBuffer.wrap(bytes);
-        try {
-            this.session.getBasicRemote().sendBinary(buffer);
-        }catch (IOException e){
-            e.printStackTrace();
-        }
+        this.session.getAsyncRemote().sendBinary(ByteBuffer.wrap(message));
+//        try {
+//            //this.session.getBasicRemote().sendBinary(ByteBuffer.wrap(message)); //
+//            //this.session.getAsyncRemote().sendBinary(ByteBuffer.wrap(message));
+//            //this.session.getBasicRemote().sendText("rerererererer");
+//        }catch (IOException e){
+//            e.printStackTrace();
+//        }
         //this.session.getAsyncRemote().sendText(message);
     }
 

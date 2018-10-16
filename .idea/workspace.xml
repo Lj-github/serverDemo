@@ -7,10 +7,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f48bbbee-9dcb-4e89-a411-fedec7a619bf" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/protobuf/Awesome$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/protobuf/Awesome$AwesomeMessage$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/protobuf/Awesome$AwesomeMessage22$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/protobuf/Awesome$AwesomeMessage22$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/protobuf/Awesome$AwesomeMessage22OrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/protobuf/Awesome$AwesomeMessageOrBuilder.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proto/awesome.proto" beforeDir="false" afterPath="$PROJECT_DIR$/proto/awesome.proto" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/SocketServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/SocketServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/protobuf/TestProtoMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/TestProtoMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/socket/protobuf/Awesome$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/socket/protobuf/Awesome$AwesomeMessage$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/socket/protobuf/Awesome$AwesomeMessage$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/protobuf/Awesome$AwesomeMessage$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/socket/protobuf/Awesome$AwesomeMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/protobuf/Awesome$AwesomeMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/socket/protobuf/Awesome$AwesomeMessage22$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/socket/protobuf/Awesome$AwesomeMessage22$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/socket/protobuf/Awesome$AwesomeMessage22.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/protobuf/Awesome$AwesomeMessage22.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/socket/protobuf/Awesome$AwesomeMessage22OrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/socket/protobuf/Awesome$AwesomeMessageOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/socket/protobuf/Awesome.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/protobuf/Awesome.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/my/my/socket/SocketServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/my/my/socket/SocketServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/my/my/socket/protobuf/Awesome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/my/my/socket/protobuf/Awesome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/my/my/socket/protobuf/TestProtoMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/my/my/socket/TestProtoMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/my/my/socket/SocketServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/my/socket/SocketServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/my/my/socket/protobuf/TestProtoMain.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test6.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/test6.war" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/socket/SocketServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/socket/SocketServer.class" afterDir="false" />
     </list>
@@ -31,32 +52,42 @@
       <file leaf-file-name="SocketServer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/my/my/socket/SocketServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="106" column="7" lean-forward="true" selection-start-line="106" selection-start-column="7" selection-end-line="106" selection-end-column="7" />
+            <state relative-caret-position="746">
+              <caret line="104" lean-forward="true" selection-start-line="104" selection-end-line="104" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#758#772#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="awesome.proto" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/proto/awesome.proto">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="TestProtoMain.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/my/my/socket/protobuf/TestProtoMain.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/my/my/socket/TestProtoMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="18" column="65" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
+            <state relative-caret-position="340">
+              <caret line="20" column="43" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Awesome.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/my/my/socket/protobuf/Awesome.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="630" column="45" selection-start-line="630" selection-start-column="29" selection-end-line="630" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -64,20 +95,8 @@
       <file leaf-file-name="AbstractMessageLite.class" pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1.jar!/com/google/protobuf/AbstractMessageLite.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InsertData.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/my/my/mysql/InsertData.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="48" column="28" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="161">
+              <caret line="23" column="21" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -85,7 +104,7 @@
       <file leaf-file-name="UpdateData.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/my/my/mysql/UpdateData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
+            <state relative-caret-position="306">
               <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -133,8 +152,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>站点网址：http://www.baidu.com</find>
-      <find>/TomcatTest/HelloForm</find>
       <find>/TomcatTest/showError</find>
       <find>异常信息</find>
       <find>HelloForm</find>
@@ -163,6 +180,8 @@
       <find>JSONObject</find>
       <find>websocket</find>
       <find>onMessage</find>
+      <find>AwesomeMessage22</find>
+      <find>ob</find>
     </findStrings>
     <replaceStrings>
       <replace>SocketServer</replace>
@@ -178,8 +197,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/my/my/ReadParams.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/my/my/DisplayHeader.java" />
         <option value="$PROJECT_DIR$/html/http/Refresh.html" />
         <option value="$PROJECT_DIR$/src/main/java/com/my/my/Refresh.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/my/my/showError.java" />
@@ -228,7 +245,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/my/my/socket/protobuf/TestProtoMain.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/main/java/com/my/my/socket/protobuf/Awesome.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/my/my/socket/TestProtoMain.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/my/my/socket/SocketServer.java" />
+        <option value="$PROJECT_DIR$/proto/awesome.proto" />
       </list>
     </option>
   </component>
@@ -249,8 +268,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="59" />
-    <option name="y" value="35" />
+    <option name="x" value="-1818" />
+    <option name="y" value="552" />
     <option name="width" value="1920" />
     <option name="height" value="979" />
   </component>
@@ -325,16 +344,6 @@
               <item name="serverDemo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="my" type="462c0819:PsiDirectoryNode" />
-              <item name="socket" type="462c0819:PsiDirectoryNode" />
-              <item name="protobuf" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="serverDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="serverDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -359,8 +368,8 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -889,12 +898,13 @@
       <workItem from="1539398951394" duration="292000" />
       <workItem from="1539399257509" duration="1898000" />
       <workItem from="1539415629570" duration="4572000" />
-      <workItem from="1539568823615" duration="7298000" />
+      <workItem from="1539568823615" duration="7995000" />
+      <workItem from="1539656153529" duration="6877000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86633000" />
+    <option name="totallyTimeSpent" value="94207000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -906,7 +916,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="59" y="35" width="1920" height="979" extended-state="0" />
+    <frame x="-1818" y="552" width="1920" height="979" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -920,11 +930,11 @@
       <window_info anchor="right" id="Maven Projects" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32363212" />
-      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49733758" visible="true" weight="0.2467986" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23399301" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49733758" weight="0.3573923" />
       <window_info id="Capture Tool" order="8" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" x="756" y="262" width="407" height="506" id="Project" order="0" visible="true" weight="0.17944622" />
+      <window_info content_ui="combo" x="756" y="262" width="407" height="506" id="Project" order="0" visible="true" weight="0.18104367" />
       <window_info id="Web" order="6" side_tool="true" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -932,7 +942,7 @@
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6227126" weight="0.30267754" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6227126" weight="0.3329453" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="LuaCheck" order="14" />
@@ -1039,7 +1049,7 @@
           <option name="timeStamp" value="35" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="49" />
+      <option name="time" value="55" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -1047,7 +1057,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../../cocos/project/pikachu_package/pikachu_package/app/src/main/java/pika/instantgame/me/activity/GameShellActivity.java" />
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="283">
@@ -1185,13 +1194,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/javaee-api/7.0/javaee-api-7.0.jar!/javax/websocket/Session.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/my/my/mysql/UploadServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="107">
@@ -1296,7 +1298,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/my/my/mysql/InsertData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
+        <state relative-caret-position="663">
           <caret line="48" column="28" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1306,7 +1308,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/my/my/mysql/UpdateData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
+        <state relative-caret-position="306">
           <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1318,9 +1320,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1331,13 +1330,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/javaee-api/7.0/javaee-api-7.0.jar!/javax/websocket/RemoteEndpoint.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="27" column="59" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/proto/TestData.proto">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1345,30 +1337,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/proto/awesome.proto">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1020">
           <caret line="60" selection-start-line="60" selection-end-line="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/my/my/socket/protobuf/Awesome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#42915#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1.jar!/com/google/protobuf/AbstractMessageLite.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -1383,10 +1355,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/my/my/socket/protobuf/TestProtoMain.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="18" column="65" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
+        <state relative-caret-position="170">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/my/my/socket/protobuf/TestProtoMain.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1.jar!/com/google/protobuf/AbstractMessageLite.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/javaee-api/7.0/javaee-api-7.0.jar!/javax/websocket/Session.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="50" column="10" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/javaee-api/7.0/javaee-api-7.0.jar!/javax/websocket/RemoteEndpoint.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="49" column="21" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/my/my/socket/protobuf/Awesome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="630" column="45" selection-start-line="630" selection-start-column="29" selection-end-line="630" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/my/my/socket/TestProtoMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="43" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1395,18 +1403,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/my/my/socket/SocketServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="106" column="7" lean-forward="true" selection-start-line="106" selection-start-column="7" selection-end-line="106" selection-end-column="7" />
+        <state relative-caret-position="746">
+          <caret line="104" lean-forward="true" selection-start-line="104" selection-end-line="104" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#758#772#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/proto/awesome.proto">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
