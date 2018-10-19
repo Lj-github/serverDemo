@@ -19,4 +19,11 @@ add log4j
 
 
 
+安装 protobufjs 
+#sudo npm install protobufjs -g
+
+
+
+
+
 
