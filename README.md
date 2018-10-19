@@ -15,5 +15,8 @@ export PATH=/usr/local/protobug3.6.1/bin
 source ~/.bash_profile   #生效
 
 
+add log4j 
+
+
 
 

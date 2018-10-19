@@ -8,4 +8,9 @@
 httpserver/.idea/
 serverDemo/.idea/
 springDemo/.idea/
-target/
+/.target
+.server
+.project
+.classpath
+.settings
+.metadata

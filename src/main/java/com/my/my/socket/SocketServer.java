@@ -4,6 +4,7 @@ import com.google.protobuf.ByteString;
 import com.google.protobuf.InvalidProtocolBufferException;
 import com.my.my.socket.protobuf.Awesome;
 
+import org.apache.log4j.Logger;
 import java.io.IOException;
 import java.nio.ByteBuffer;
 import java.util.Arrays;
@@ -19,6 +20,7 @@ import javax.websocket.server.ServerEndpoint;
 public class SocketServer {
     //静态变量，用来记录当前在线连接数。应该把它设计成线程安全的。
     private static int onlineCount = 0;
+    Logger logger = Logger.getLogger(SocketServer.class);
 
     //concurrent包的线程安全Set，用来存放每个客户端对应的MyWebSocket对象。若要实现服务端与单一客户端通信的话，可以使用Map来存放，其中Key可以为用户标识
     private static CopyOnWriteArraySet<SocketServer> webSocketSet = new CopyOnWriteArraySet<SocketServer>();
@@ -98,7 +100,7 @@ public class SocketServer {
     public byte[] makeMsgHead(int msgLen, int msgID) {
 
         byte[] bytes = new byte[8];
-        int c =  10 / 3;
+        int c = 10 / 3;
 
 
         bytes[0] = (byte) (int) (msgLen / Math.pow(256, 3));
@@ -125,9 +127,14 @@ public class SocketServer {
         int msgID = getMsgID(message);
         int msgLen = getMsgLen(message);
         byte[] bytes2 = Arrays.copyOfRange(message, 8, 8 + msgLen);
+
+        logger.debug("This is debug message.");
         try {
             Awesome.AwesomeMessage gd = Awesome.AwesomeMessage.parseFrom(bytes2);
             System.out.println("来自客户端的消息:" + gd);  //正确解码 通过
+
+
+
 
         } catch (InvalidProtocolBufferException e) {
             e.printStackTrace();
@@ -142,11 +149,6 @@ public class SocketServer {
 
         byte[] sendMsg = addBytes(bytesHead, bytes);
 
-//        PersonEntity.CommonBean.Builder builder = PersonEntity.CommonBean.newBuilder();
-//        builder.setId(1).setName("lfz"); //id和name是required的，所以必填
-//        PersonEntity.CommonBean bean1 = builder.build();
-//        byte[] bytes = bean1.toByteArray(); //序列化
-//        PersonEntity.CommonBean bean2 = PersonEntity.CommonBean.parseFrom(bytes); //反序列
         System.out.println("来自客户端的消息:" + sendMsg);
         //群发消息
         for (SocketServer item : webSocketSet) {
