@@ -1,7 +1,9 @@
-.idea
-.target
-.server
+.idea/
+target/
+.server/
 .project
 .classpath
 .settings
 .metadata
+*.pyc
+venv/

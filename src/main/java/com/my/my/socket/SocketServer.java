@@ -127,7 +127,7 @@ public class SocketServer {
         logger.debug("This is debug message.");
         try {
             Awesome.AwesomeMessage gd = Awesome.AwesomeMessage.parseFrom(bytes2);
-            System.out.println("来自客户端的消息:" + gd);  //正确解码 通过
+            System.out.println("client msg:" + gd);  //正确解码 通过
 
 
 
