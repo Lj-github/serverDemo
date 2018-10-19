@@ -98,11 +98,7 @@ public class SocketServer {
      */
 
     public byte[] makeMsgHead(int msgLen, int msgID) {
-
         byte[] bytes = new byte[8];
-        int c = 10 / 3;
-
-
         bytes[0] = (byte) (int) (msgLen / Math.pow(256, 3));
         bytes[1] = (byte) (int) (msgLen / Math.pow(256, 2));
         bytes[2] = (byte) (int) (msgLen / Math.pow(256, 1));

@@ -6,146 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f48bbbee-9dcb-4e89-a411-fedec7a619bf" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/PersonEntity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/PersonEntity$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/PersonEntity$CommonBean$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/PersonEntity$CommonBean$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/PersonEntity$CommonBean$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/PersonEntity$CommonBean$Builder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/PersonEntity$CommonBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/PersonEntity$CommonBean.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/PersonEntity$CommonBeanOrBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/PersonEntity$CommonBeanOrBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/PersonEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/PersonEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/CheckBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/CheckBox.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/CurrentDate.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/CurrentDate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/DeleteCookies.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/DeleteCookies.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/DisplayHeader.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/DisplayHeader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/ErrorHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/ErrorHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/HelloForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/HelloForm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/HelloFormPost.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/HelloFormPost.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/HelloWorld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/Log.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/Log.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/LogFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/LogFilter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/PageHitCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/PageHitCounter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/PageRedirect.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/PageRedirect.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/ReadCookies.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/ReadCookies.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/ReadParams.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/ReadParams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/Refresh.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/Refresh.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/SessionTrack.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/SessionTrack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/json/ReadJson.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/json/ReadJson.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/mysql/CreateTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/mysql/CreateTable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/mysql/DatabaseAccess.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/mysql/DatabaseAccess.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/mysql/InsertData.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/mysql/InsertData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/mysql/MysqlConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/mysql/MysqlConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/mysql/SelectData.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/mysql/SelectData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/mysql/Unit.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/mysql/Unit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/mysql/UpdateData.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/mysql/UpdateData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/mysql/UploadServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/mysql/UploadServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/showError.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/showError.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/SocketConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/SocketConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/SocketServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/SocketServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/StartFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/StartFilter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/TestProtoMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/TestProtoMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/msg/LoginC2S.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/msg/LoginC2S.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/msg/LoginS2C.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/msg/LoginS2C.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/protobuf/Awesome$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/protobuf/Awesome$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/protobuf/Awesome$AwesomeMessage$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/protobuf/Awesome$AwesomeMessage$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/protobuf/Awesome$AwesomeMessage$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/protobuf/Awesome$AwesomeMessage$Builder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/protobuf/Awesome$AwesomeMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/protobuf/Awesome$AwesomeMessage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/protobuf/Awesome$AwesomeMessage22$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/protobuf/Awesome$AwesomeMessage22$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/protobuf/Awesome$AwesomeMessage22$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/protobuf/Awesome$AwesomeMessage22$Builder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/protobuf/Awesome$AwesomeMessage22.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/protobuf/Awesome$AwesomeMessage22.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/protobuf/Awesome$AwesomeMessage22OrBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/protobuf/Awesome$AwesomeMessage22OrBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/protobuf/Awesome$AwesomeMessageOrBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/protobuf/Awesome$AwesomeMessageOrBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/protobuf/Awesome.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/com/my/my/socket/protobuf/Awesome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/socket/protobuf/TestData$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/socket/protobuf/TestData$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/socket/protobuf/TestData$gps_data$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/socket/protobuf/TestData$gps_data$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/socket/protobuf/TestData$gps_data$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/socket/protobuf/TestData$gps_data$Builder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/socket/protobuf/TestData$gps_data.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/socket/protobuf/TestData$gps_data.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/socket/protobuf/TestData$gps_dataOrBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/socket/protobuf/TestData$gps_dataOrBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/socket/protobuf/TestData.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/classes/socket/protobuf/TestData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/server/tomcat/apache-tomcat-7.0.91/webapps/ROOT/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/my/my/socket/SocketServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/my/my/socket/SocketServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PersonEntity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PersonEntity$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PersonEntity$CommonBean$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PersonEntity$CommonBean$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PersonEntity$CommonBean$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PersonEntity$CommonBean$Builder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PersonEntity$CommonBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PersonEntity$CommonBean.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PersonEntity$CommonBeanOrBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PersonEntity$CommonBeanOrBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PersonEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PersonEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/my/my/CheckBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/my/CheckBox.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/my/my/CurrentDate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/my/CurrentDate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/my/my/DeleteCookies.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/my/DeleteCookies.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/my/my/DisplayHeader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/my/DisplayHeader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/my/my/ErrorHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/my/ErrorHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/my/my/HelloForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/my/HelloForm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/my/my/HelloFormPost.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/my/HelloFormPost.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/my/my/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/my/HelloWorld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/my/my/Log.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/my/Log.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/my/my/LogFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/my/LogFilter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/my/my/PageHitCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/my/PageHitCounter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/my/my/PageRedirect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/my/PageRedirect.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/my/my/ReadCookies.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/my/ReadCookies.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/my/my/ReadParams.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/my/ReadParams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/my/my/Refresh.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/my/Refresh.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/my/my/SessionTrack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/my/SessionTrack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/my/my/json/ReadJson.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/my/json/ReadJson.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/my/my/mysql/CreateTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/my/mysql/CreateTable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/my/my/mysql/DatabaseAccess.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/my/mysql/DatabaseAccess.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/my/my/mysql/InsertData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/my/mysql/InsertData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/my/my/mysql/MysqlConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/my/mysql/MysqlConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/my/my/mysql/SelectData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/my/mysql/SelectData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/my/my/mysql/Unit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/my/mysql/Unit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/my/my/mysql/UpdateData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/my/mysql/UpdateData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/my/my/mysql/UploadServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/my/mysql/UploadServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/my/my/showError.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/my/showError.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/my/my/socket/SocketConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/my/socket/SocketConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/my/my/socket/SocketServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/my/socket/SocketServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/my/my/socket/StartFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/my/socket/StartFilter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/my/my/socket/msg/LoginC2S.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/my/socket/msg/LoginC2S.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/my/my/socket/msg/LoginS2C.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/my/my/socket/msg/LoginS2C.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/socket/protobuf/TestData$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/socket/protobuf/TestData$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/socket/protobuf/TestData$gps_data$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/socket/protobuf/TestData$gps_data$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/socket/protobuf/TestData$gps_data$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/socket/protobuf/TestData$gps_data$Builder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/socket/protobuf/TestData$gps_data.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/socket/protobuf/TestData$gps_data.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/socket/protobuf/TestData$gps_dataOrBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/socket/protobuf/TestData$gps_dataOrBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/socket/protobuf/TestData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/socket/protobuf/TestData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test6.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/test6.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/CheckBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/CheckBox.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/CurrentDate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/CurrentDate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/DeleteCookies.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/DeleteCookies.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/DisplayHeader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/DisplayHeader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/ErrorHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/ErrorHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/HelloForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/HelloForm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/HelloFormPost.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/HelloFormPost.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/HelloWorld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/Log.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/Log.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/LogFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/LogFilter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/PageHitCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/PageHitCounter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/PageRedirect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/PageRedirect.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/ReadCookies.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/ReadCookies.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/ReadParams.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/ReadParams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/Refresh.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/Refresh.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/SessionTrack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/SessionTrack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/json/ReadJson.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/json/ReadJson.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/mysql/CreateTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/mysql/CreateTable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/mysql/DatabaseAccess.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/mysql/DatabaseAccess.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/mysql/InsertData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/mysql/InsertData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/mysql/MysqlConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/mysql/MysqlConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/mysql/SelectData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/mysql/SelectData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/mysql/Unit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/mysql/Unit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/mysql/UpdateData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/mysql/UpdateData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/mysql/UploadServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/mysql/UploadServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/showError.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/showError.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/socket/SocketConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/socket/SocketConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/socket/SocketServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/socket/SocketServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/socket/StartFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/socket/StartFilter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/socket/msg/LoginC2S.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/socket/msg/LoginC2S.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/socket/msg/LoginS2C.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test6/WEB-INF/classes/com/my/my/socket/msg/LoginS2C.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test6/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test6/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/test6.iml" afterDir="false" />
-    </list>
+    <list default="true" id="f48bbbee-9dcb-4e89-a411-fedec7a619bf" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="server/tomcat/apache-tomcat-7.0.91/" />
@@ -228,20 +89,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitattributes" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitattributes">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+            <state relative-caret-position="255">
+              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -385,9 +237,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="47" />
-    <option name="y" value="53" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="10" />
+    <option name="y" value="23" />
     <option name="width" value="1920" />
     <option name="height" value="983" />
   </component>
@@ -985,12 +837,12 @@
       <workItem from="1539676677895" duration="269000" />
       <workItem from="1539691057940" duration="933000" />
       <workItem from="1539915653638" duration="7024000" />
-      <workItem from="1539936285910" duration="3167000" />
+      <workItem from="1539936285910" duration="3555000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105648000" />
+    <option name="totallyTimeSpent" value="106036000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1002,7 +854,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="23" width="1920" height="983" extended-state="6" />
+    <frame x="10" y="23" width="1920" height="983" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32945284" />
@@ -1014,12 +866,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5026624" side_tool="true" weight="0.32945284" />
       <window_info anchor="right" id="Maven Projects" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="11" visible="true" weight="0.5979143" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.5979143" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3244496" />
-      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49733758" weight="0.35656214" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49733758" visible="true" weight="0.3557358" />
       <window_info id="Capture Tool" order="8" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" x="756" y="262" width="407" height="506" id="Project" order="0" visible="true" weight="0.16400427" />
+      <window_info active="true" content_ui="combo" x="756" y="262" width="407" height="506" id="Project" order="0" visible="true" weight="0.16400427" />
       <window_info id="Web" order="6" side_tool="true" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -1540,8 +1392,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        <state relative-caret-position="255">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -1551,7 +1403,7 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>test6:war exploded</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1624,7 +1476,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: com.sun.mail:javax.mail:1.5.0</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
