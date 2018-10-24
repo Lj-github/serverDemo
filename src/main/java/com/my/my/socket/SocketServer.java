@@ -5,6 +5,7 @@ import com.google.protobuf.InvalidProtocolBufferException;
 import com.my.my.socket.protobuf.Awesome;
 
 import org.apache.log4j.Logger;
+
 import java.io.IOException;
 import java.nio.ByteBuffer;
 import java.util.Arrays;
@@ -128,8 +129,6 @@ public class SocketServer {
         try {
             Awesome.AwesomeMessage gd = Awesome.AwesomeMessage.parseFrom(bytes2);
             System.out.println("client msg:" + gd);  //正确解码 通过
-
-
 
 
         } catch (InvalidProtocolBufferException e) {
