@@ -14,18 +14,15 @@ import java.net.Socket;
 
 public class GameServerSocket {
     private static final Logger logger = LoggerFactory.getLogger(GameServerSocket.class);
-
     public static final int port = 0;
     private ServerSocket server = null;
 
     //搭建服务器端
-    public static void main(String[] args) throws IOException {
+    public static  void main(String[] args) throws IOException {
         GameServerSocket socketService = new GameServerSocket();
         socketService.start();
     }
-
     public void start() {
-
         if (isPortAvailable(port)) {
             try {
                 isPortAvailable(port);
@@ -80,13 +77,9 @@ public class GameServerSocket {
             } catch (Exception e) {//出错，打印出错信息
                 logger.debug("Error." + e);
             }
-
-
         } else {
             logger.error("端口被占用");
         }
-
-
     }
 
 

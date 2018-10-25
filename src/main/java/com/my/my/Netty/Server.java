@@ -14,6 +14,7 @@ import io.netty.handler.logging.LogLevel;
 import io.netty.handler.logging.LoggingHandler;
 import io.netty.handler.timeout.ReadTimeoutHandler;
 
+
 public class Server {
 
     public static void main(String[] args) throws Exception {
@@ -40,13 +41,13 @@ public class Server {
 //                        sc.pipeline().addLast(MarshallingCodeCFactory.buildMarshallingDecoder());
 //                        sc.pipeline().addLast(MarshallingCodeCFactory.buildMarshallingEncoder());
 
-                        sc.pipeline().addLast(new HttpServerCodec());
-                        sc.pipeline().addLast(new HttpObjectAggregator(65536));
-
-
-                        //5s没有交互，就会关闭channel
-                        sc.pipeline().addLast(new ReadTimeoutHandler(5));
-                        sc.pipeline().addLast(new ServerHandler());   //服务端业务处理类
+//                        sc.pipeline().addLast(new HttpServerCodec());
+//                        sc.pipeline().addLast(new HttpObjectAggregator(65536));
+//
+//
+//                        //5s没有交互，就会关闭channel
+//                        sc.pipeline().addLast(new ReadTimeoutHandler(5));
+//                        sc.pipeline().addLast(new ServerHandler());   //服务端业务处理类
                     }
                 })
                 .childOption(ChannelOption.SO_REUSEADDR, true);
